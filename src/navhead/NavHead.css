@@ -1,0 +1,23 @@
+.nav-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 13px 21px;
+}
+
+.nav-time{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Abhaya Libre", serif;
+}
+.nav-icons svg{
+    width: 15px;
+    height: 17px;
+    color: rgba(255, 255, 255, 1);
+    margin-right: 2px;
+}
+
+.battery svg{
+    transform: rotate(90deg);
+}
